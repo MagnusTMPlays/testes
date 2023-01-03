@@ -1,0 +1,11 @@
+---
+versoes:
+  - versao: 5.0.0.1
+    descricao: Versao 1
+    criadaem: 2022-12-31
+  - versao: 5.0.0.2
+    descricao: Versao 2
+    criadaem: 2023-01-01
+  - versao: 5.0.0.3
+    descricao: Versao 3
+    criadaem: 2023-01-15
