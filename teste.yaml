@@ -1,5 +1,8 @@
 ---
 versoes:
+  - versao: 5.0.284
+    descricao: FY23Q2 5.0.284
+    criadaem: 2022-12-22
   - versao: 5.0.286
     descricao: FY23Q3 5.0.286
     criadaem: 2023-01-06
